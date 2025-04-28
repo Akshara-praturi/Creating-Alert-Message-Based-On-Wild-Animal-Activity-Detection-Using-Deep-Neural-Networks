@@ -22,6 +22,21 @@ This project uses deep neural networks to detect wild animal movement and genera
 
 ## How to Run
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Akshara-praturi/Creating-Alert-Message-Based-On-Wild-Animal-Activity-Detection-Using-Deep-Neural-Networks.git
+
+## Navigate into the project directory
+cd Creating-Alert-Message-Based-On-Wild-Animal-Activity-Detection-Using-Deep-Neural-Networks
+
+## Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate  
+
+## Install the required dependencies
+pip install -r requirements.txt
+
+## To Run the Model
+python main.py 
+
+
